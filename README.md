@@ -416,13 +416,6 @@ Possible future improvements include:
 
 Data Analyst | Power BI | SQL | Data Analytics
 
-🔗 **GitHub Project:**
-[YOUR_GITHUB_PROJECT_LINK](YOUR_GITHUB_PROJECT_LINK)
-
-🔗 **Live Power BI Dashboard:**
-[View Dashboard](YOUR_POWER_BI_LIVE_DASHBOARD_LINK)
-
----
 
 ## 📌 Project Note
 
